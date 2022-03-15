@@ -36,7 +36,7 @@
 ## Method
 
 <div align="center">
-    <img src="./imgs/version1.png" align="middle">   
+    <img src="./imgs/version1.png" align="middle" width="600">   
 </div>
 
 - 인코딩/디코딩의 전체 과정을 고려한 오차 역전파 기반 학습이 가능한 코덱 모델링 신경망 개발
@@ -44,7 +44,7 @@
 
 
 <div align="center">
-    <img src="./imgs/version2_1.png" align="middle" />
+    <img src="./imgs/version2_1.png" align="middle" width="600" />
 </div>
 
 파라미터 결정 모듈은 인공 신경망 네트워크로 구성되어 Pretrain 및 Finetuning 될 수 있으며 영상의 축소 스케일 값과 컨텐츠 종류를 출력하여 인코딩 및 디코딩 시에 사용된다. 이 정보는 기존 코덱의 Bitstream에 사이드 정보로 추가되어 같이 비트열로 전송되어 디코더 사이드로 전송된다.
@@ -55,7 +55,7 @@
 
 
 <p align="center">
-    <img src="./imgs/version2_2.png" align="middle" width="500"/>
+    <img src="./imgs/version2_2.png" align="middle" width="600"/>
 </p>
 
 전처리 및 후처리 네트워크는 복원 영상과 원본 영상의 Distortion을 손실함수로 정의하여 오차 역전파를 통해 학습된다. 이때 레거시 코덱은 미분 불가능한 양자화 연산을 가지고 있기 때문에 그라디언트의 전달이 불가능하므로 End-to-end 학습이 불가능하다. 이를 해결하기 위해 기존 레거시 코덱을 모델링하여 생성한 코덱 모사 네트워크를 사용하여 기존 코덱 대신 그라디언트의 전달 통로로 사용하여 전처리 및 후처리 네트워크를 동시에 최적화 한다. 
