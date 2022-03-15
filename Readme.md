@@ -3,7 +3,7 @@
     <img src="./imgs/aionflow_logo.png" align="middle" width="500"/>
 </p>
 
-**Video&Audio Compression using AI [AionflowCompression](https://github.com/paddlepaddle/paddle).**
+**Video&Audio Compression using AI [AionflowCompression](https://github.com/wh-y-j-lee/aionflow_test).**
 
 [![License](https://img.shields.io/badge/license-Apache%202-blue.svg)](LICENSE)
 ![python version](https://img.shields.io/badge/python-3.6+-orange.svg)
@@ -12,13 +12,13 @@
 </div>
 
 ## Updates
-- [2022-02-17] Update v1.4. Check [20220217_Update_Log](mvp.yonsei.ac.kr)
+- [2022-02-17] Update v1.4. Check [20220217_Update_Log](https://mvp.yonsei.ac.kr)
     - 학습 코드 에러 수정
     - 새로운 최적 파라미터로 Pretrained 모델 재학습 완료
     - 불필요한 코드 통합, 삭제
-- [2022-02-03] Update v1.3. Check [20220106_Update_Log](mvp.yonsei.ac.kr)
+- [2022-02-03] Update v1.3. Check [20220106_Update_Log](https://mvp.yonsei.ac.kr)
     - CResMD 기반 스케일, 컨텐츠에 따른 Multi dimension 전이 학습 v1 테스트 코드 추가
-- [2022-01-06] Update v1.2. Check [20220106_Update_Log](mvp.yonsei.ac.kr)
+- [2022-01-06] Update v1.2. Check [20220106_Update_Log](https://mvp.yonsei.ac.kr)
     - 전,후처리 네트워크를 ArbSR 기반 다중 임의 스케일로 변환 가능한 네트워크로 변경
     - Example 코드 추가 
 - [2021-12-16] Update v1.1
