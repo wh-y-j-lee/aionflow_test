@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-    <img src="./imgs/a.png" align="middle" width="500"/>
+    <img src="./imgs/aionflow_logo.png" align="middle" width="500"/>
 </p>
 
 **Video&Audio Compression using AI [AionflowCompression](https://github.com/paddlepaddle/paddle).**
@@ -23,8 +23,20 @@
 PaddleSeg is an end-to-end high-efficent development toolkit for image segmentation based on PaddlePaddle, which helps both developers and researchers in the whole process of designing segmentation models, training models, optimizing performance and inference speed, and deploying models. A lot of well-trained models and various real-world applications in both industry and academia help users conveniently build hands-on experiences in image segmentation.
 
 <p align="center">
-    <img src="./imgs/b.png" align="middle" width="500"/>
+    <img src="./imgs/intro.png" align="middle" width="500"/>
 </p>
 
 ## Method
 
+내용 입력
+<p align="center">
+    <img src="./imgs/version1.png" align="middle" width="500"/>
+</p>
+내용 입력
+<p align="center">
+    <img src="./imgs/version2_1.png" align="middle" width="500"/>
+</p>
+내용
+<p align="center">
+    <img src="./imgs/version2_2.png" align="middle" width="500"/>
+</p>
