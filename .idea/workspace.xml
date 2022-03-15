@@ -16,11 +16,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/imgs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="Settings.Markdown" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PycharmProjects\aionflow_md" />
       <recent name="D:\PycharmProjects\aionflow_md\imgs" />
     </key>
   </component>
@@ -33,7 +34,7 @@
       <option name="presentableId" value="Default" />
       <updated>1647306629462</updated>
       <workItem from="1647306630509" duration="1281000" />
-      <workItem from="1647310623145" duration="7816000" />
+      <workItem from="1647310623145" duration="8029000" />
     </task>
     <servers />
   </component>

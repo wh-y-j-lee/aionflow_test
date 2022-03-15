@@ -3,7 +3,7 @@
     <img src="./imgs/aionflow_logo.png" align="middle" width="500"/>
 </p>
 
-**Video&Audio Compression using AI [AionflowCompression](https://github.com/wh-y-j-lee/aionflow_test).**
+**Video&Audio Compression using AI  [AionflowCompression](https://github.com/wh-y-j-lee/aionflow_test).**
 
 [![License](https://img.shields.io/badge/license-Apache%202-blue.svg)](LICENSE)
 ![python version](https://img.shields.io/badge/python-3.6+-orange.svg)
@@ -83,7 +83,9 @@
 
 
 ## Results
+
 <br></br>
+
 <div align="center">
     <img src="./imgs/result_2048/fullpreformance/UVG_msssim.png" align="middle"/>
     <img src="./imgs/result_2048/fullpreformance/UVG_psnr.png" align="middle"/>
