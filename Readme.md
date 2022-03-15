@@ -57,3 +57,13 @@ PaddleSeg is an end-to-end high-efficent development toolkit for image segmentat
 <p align="center">
     <img src="./imgs/version2_2.png" align="middle" width="500"/>
 </p>
+
+## Results
+
+<p align="center">
+    <img src="./result_2048/fullpreformance/UVG_msssim.png" align="middle"/>
+    <img src="./result_2048/fullpreformance/UVG_psnr.png" align="middle"/>
+</p>
+<p align="center">
+    
+</p>
