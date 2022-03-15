@@ -15,21 +15,15 @@
 과제 목표, 요약 사항, 기술 제공 사항
 
 ## Updates
-- [2022-02-17] Update ~~~. Check [20220217_Update_Log](mvp.yonsei.ac.kr)
-    - Fix ~~ issues
-    - Add ~~
-    - Add ~~
-    - Delete ~~
-- [2022-02-03] Update ~~~. Check [20220106_Update_Log](mvp.yonsei.ac.kr)
-    - Fix ~~ issues
-    - Add ~~
-    - Add ~~
-    - Delete ~~
+- [2022-02-17] Update v1.4. Check [20220217_Update_Log](mvp.yonsei.ac.kr)
+    - 학습 코드 에러 수정
+    - 새로운 최적 파라미터로 Pretrained 모델 재학습 완료
+    - 불필요한 코드 통합, 삭제
+- [2022-02-03] Update v1.3. Check [20220106_Update_Log](mvp.yonsei.ac.kr)
+    - CResMD 기반 스케일, 컨텐츠에 따른 Multi dimension 전이 학습 v1 테스트 코드 추가
 - [2022-01-06] Update v1.2. Check [20220106_Update_Log](mvp.yonsei.ac.kr)
-    - CResMD 기반 스케일Fix ~~ issues
-    - Add ~~
-    - Add ~~
-    - Delete ~~
+    - 전,후처리 네트워크를 ArbSR 기반 다중 임의 스케일로 변환 가능한 네트워크로 변경
+    - Example 코드 추가 
 - [2021-12-16] Update v1.1
     - FFMPEG 코덱 호환 기능 추가
     - 전/후처리 Train 코드 데모 추가
