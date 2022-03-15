@@ -35,6 +35,7 @@
 
 ## Method
 
+<br></br>
 
 <div align="center">
     <img src="./imgs/version1.png" align="middle" width="600">   
