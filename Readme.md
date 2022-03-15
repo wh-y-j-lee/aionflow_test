@@ -28,6 +28,7 @@
 - [2021-11-25] Test upload alpha version v1.0.
 
 ## Overviews/Abstract
+<br></br>
 <div align="center">
     <img src="./imgs/intro_2.png" align="middle" width="600" />
     <img src="./imgs/intro.png" align="middle" width="600"/>
@@ -81,7 +82,7 @@
 
 
 ## Results
-
+<br></br>
 <div align="center">
     <img src="./imgs/result_2048/fullpreformance/UVG_msssim.png" align="middle"/>
     <img src="./imgs/result_2048/fullpreformance/UVG_psnr.png" align="middle"/>
