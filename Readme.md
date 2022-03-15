@@ -37,7 +37,7 @@
 
 <p align="center">
     <figure>
-        <img src="./imgs/version1.png" align="middle"/>
+        <img src="./imgs/version1.png" align="middle">
         <figcaption>코덱 모델링 신경망 프로세스</figcaption>
     </figure>
 </p>
