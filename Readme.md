@@ -37,7 +37,7 @@
 
 <p align="center">
     <img src="./imgs/version1.png" align="middle">
-    <figcaption>코덱 모델링 신경망 프로세스</figcaption>
+    코덱 모델링 신경망 프로세스
 </p>
 
 - 인코딩/디코딩의 전체 과정을 고려한 오차 역전파 기반 학습이 가능한 코덱 모델링 신경망 개발
