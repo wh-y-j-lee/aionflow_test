@@ -11,9 +11,6 @@
 
 </div>
 
-## Overviews/Abstract
-과제 목표, 요약 사항, 기술 제공 사항
-
 ## Updates
 - [2022-02-17] Update v1.4. Check [20220217_Update_Log](mvp.yonsei.ac.kr)
     - 학습 코드 에러 수정
