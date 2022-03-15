@@ -1,0 +1,173 @@
+2021-07-06 11:18:36,205 - INFO] DVC training
+2021-07-06 11:18:36,205 - INFO] config : 
+2021-07-06 11:18:36,205 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2021-07-06 11:18:59,914 - INFO] DVC training
+2021-07-06 11:18:59,914 - INFO] config : 
+2021-07-06 11:18:59,914 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2021-07-06 11:19:57,799 - INFO] DVC training
+2021-07-06 11:19:57,799 - INFO] config : 
+2021-07-06 11:19:57,799 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2021-07-06 11:23:52,531 - INFO] DVC training
+2021-07-06 11:23:52,531 - INFO] config : 
+2021-07-06 11:23:52,531 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2021-07-06 11:25:45,025 - INFO] DVC training
+2021-07-06 11:25:45,025 - INFO] config : 
+2021-07-06 11:25:45,025 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2021-07-06 11:26:10,578 - INFO] DVC training
+2021-07-06 11:26:10,578 - INFO] config : 
+2021-07-06 11:26:10,578 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2021-07-06 17:34:06,964 - INFO] DVC training
+2021-07-06 17:34:06,964 - INFO] config : 
+2021-07-06 17:34:06,965 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2021-07-06 18:07:40,205 - INFO] DVC training
+2021-07-06 18:07:40,205 - INFO] config : 
+2021-07-06 18:07:40,205 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2021-07-06 18:13:42,818 - INFO] DVC training
+2021-07-06 18:13:42,818 - INFO] config : 
+2021-07-06 18:13:42,818 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2021-07-06 18:15:20,452 - INFO] DVC training
+2021-07-06 18:15:20,453 - INFO] config : 
+2021-07-06 18:15:20,453 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2021-07-06 18:19:04,233 - INFO] DVC training
+2021-07-06 18:19:04,234 - INFO] config : 
+2021-07-06 18:19:04,234 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2021-07-06 18:23:39,177 - INFO] DVC training
+2021-07-06 18:23:39,177 - INFO] config : 
+2021-07-06 18:23:39,177 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2021-07-06 18:30:58,465 - INFO] DVC training
+2021-07-06 18:30:58,465 - INFO] config : 
+2021-07-06 18:30:58,465 - INFO] {
+    "tot_epoch": 10000,
+    "tot_step": 2000000,
+    "train_lambda": 2048,
+    "lr": {
+        "base": 0.0001,
+        "decay": 0.1,
+        "decay_interval": 1800000
+    }
+}
+
+2021-07-06 19:41:38,248 - INFO] global step 0 : 
+
+2021-07-06 19:41:38,248 - INFO] UVGdataset : average bpp : 0.168036, average psnr : 37.687499, average msssim: 0.969691
+
