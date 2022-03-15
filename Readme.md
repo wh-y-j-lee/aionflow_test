@@ -13,9 +13,23 @@
 
 ## Updates
 - [2022-02-17] Update ~~~. Check [20220217_Update_Log](mvp.yonsei.ac.kr)
-- [2022-02-03] Fix ~~~ import error
+    - Fix ~~ issues
+    - Add ~~
+    - Add ~~
+    - Delete ~~
+- [2022-02-03] Update ~~~. Check [20220106_Update_Log](mvp.yonsei.ac.kr)
+    - Fix ~~ issues
+    - Add ~~
+    - Add ~~
+    - Delete ~~
 - [2022-01-06] Update ~~~. Check [20220106_Update_Log](mvp.yonsei.ac.kr)
+    - Fix ~~ issues
+    - Add ~~
+    - Add ~~
+    - Delete ~~
 - [2021-12-16] Hot fix v1.1 updated
+    - Fix ~~ issues
+    - Code stabilization 
 - [2021-11-25] Test update alpha version v1.0.
 
 ## Introduction
