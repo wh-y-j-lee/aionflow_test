@@ -35,20 +35,16 @@
 
 ## Method
 
-<p align="center">
-    <img src="./imgs/version1.png" align="middle">
-</p>
-
-
-<center>![코덱 모델링 신경망 프로세스](./imgs/version1)</center>
-
+<div align="center">
+    <img src="./imgs/version1.png" align="middle">   
+</div>
 
 - 인코딩/디코딩의 전체 과정을 고려한 오차 역전파 기반 학습이 가능한 코덱 모델링 신경망 개발
 - 코덱 모델링 신경망은 동영상 신호를 받아서 압축 후 열화된 신호를 출력하며, 코덱을 이용하여 얻을 수 있는 결과와의 오차를 최소화하도록 학습되어 코덱의 과정을 모사하는 역할 수행
 
-<p align="center">
+<div align="center">
     <img src="./imgs/version2_1.png" align="middle" />
-</p>
+</div>
 
 파라미터 결정 모듈은 인공 신경망 네트워크로 구성되어 Pretrain 및 Finetuning 될 수 있으며 영상의 축소 스케일 값과 컨텐츠 종류를 출력하여 인코딩 및 디코딩 시에 사용된다. 이 정보는 기존 코덱의 Bitstream에 사이드 정보로 추가되어 같이 비트열로 전송되어 디코더 사이드로 전송된다.
 
